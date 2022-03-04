@@ -1,0 +1,8 @@
+* Si se puede crear las carpetas con un solo comando:
+Estando posicionado en /DH/peliculas
+comando: mkdir accion comedia infantiles romanticas terror
+* Si es posible, estando posicionado en la carpeta Infantiles
+Comando:
+touch "El juego del miendo.xls" intenzamente.txt "Rapido y Furioso.pdf" Titanic.jpg
+*Estando en dh comando: mkdir peliculas/romanticas/Prueba
+*Estando en Romanticas comando: mkdir ../accion/Prueba2
