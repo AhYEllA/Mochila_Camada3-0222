@@ -1,0 +1,45 @@
+¿Qué puerto o puertos utilizan las siguientes aplicaciones?
+•	Zoom	 50796/56175/56257/61482/61483/61484/62406/62747
+
+•	Discord		6463/62382
+
+•	Google Meet	443/19302/19309
+
+•	WhatsApp Web		80/443/5353
+
+•	MySQL		3306
+
+•	Git		9418
+
+•	Secure Socket Layer (SSL)	443
+
+•	HTTP	80
+
+•	VirtualBox	8080
+
+•	VPN	1194
+
+•	Microsoft Outlook	25/110/587/995
+
+•	File Transfer Protocol (FTP)	21
+
+•	Microsoft Word	23419
+
+•	Skype		62988/62989/62990/62993/62996/62998
+
+•	Epic Games	63120 al 63130
+
+•	Fifa 21		80/443/3478/3479/3480
+
+•	Spotify		1900/5353/56172/56173
+
+•	TeamViewer	5353/5939/63239/63240/63242/63243
+
+•	Netflix		80/443
+--Extras—
+•	Visual Studio Code	63548 al 63560
+
+
+•	Anydesk	7070/50001/63594
+
+•	Steam		63599 al 63605
